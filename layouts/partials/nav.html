@@ -1,0 +1,15 @@
+<div id="container">
+    <a href="/"><img src="https://via.placeholder.com/150" class="header"></a>
+    <hr>
+    <span class="navlisttext"></span>
+        <ul id="nav">
+            {{ range .Site.Params.Navlinks }}
+                {{ range $title, $url := . }}
+                    <li>
+                        <a href="{{ $url }}">{{ $title }}</a>
+                    </li>
+                {{ end }}
+            {{ end }}
+        </ul>
+    </span>
+</div>

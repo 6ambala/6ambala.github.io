@@ -1,0 +1,40 @@
+/* Common elements */
+a {
+    border-bottom: 0px solid #999;
+    color:#999;
+}
+
+a:active {
+    text-decoration: none;
+    color:#000;
+}
+
+a:link {
+    text-decoration: none;
+    color:#999;
+}
+
+hr {
+    visibility: hidden;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
+    line-height: 25px;
+    padding: 27px 27px 27px 27px;
+    color: #000;
+}
+
+/* Navigation: nav.html */
+ul#nav {
+    list-style: none;
+    padding: 10px;
+}
+
+/* Main content */
+.content {
+    float: left;
+    padding: 0px;
+    margin: -257px 20px 0 265px;
+    position: relative;
+}

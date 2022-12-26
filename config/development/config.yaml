@@ -1,0 +1,15 @@
+baseURL: http://art.bartosh.org/
+languageCode: ru-ru
+title: Марина Бартош
+buildDrafts: true
+minify: false
+enableGitInfo: true
+params:
+  # DebugMenu: true
+  navlinks:
+    - "О себе": /about
+    - "Аэростат": /portfolio/aerostat
+    - "Рисунки к фильмам": /portfolio/films
+    - "Иллюстрации": /portfolio/illustrations
+    - "Графика и живопись": /portfolio/graphics
+    - "Роспись стен": /portfolio/walls
