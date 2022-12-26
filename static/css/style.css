@@ -26,7 +26,15 @@ body {
 }
 
 /* Navigation: nav.html */
-ul#nav {
+.divnav {
+    float: left;
+    margin: 0px auto;
+    width: 15%;
+    padding: 0px 0px;
+    list-style: none;
+}
+
+.ulnav {
     list-style: none;
     padding: 10px;
 }
