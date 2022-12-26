@@ -46,3 +46,17 @@ body {
     margin: -257px 20px 0 265px;
     position: relative;
 }
+
+.body {
+    padding: 0px 0px;
+}
+
+/* About */
+
+.about {
+    float: left;
+    width: 85%;
+    padding: 0px 0px;
+    margin: 0px 0px 0px 0px;
+    position: relative;
+}

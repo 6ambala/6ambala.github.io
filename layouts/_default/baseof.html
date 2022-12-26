@@ -2,9 +2,8 @@
 <html lang="{{.Site.LanguageCode}}">
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "nav.html" . -}}
-        <div class="content">
-            <h1>_default/baseof.html</h1>
+        <div class="body">
+           {{- partial "nav.html" . -}}
            {{ block "main" . }}
            {{ end }}
         </div>
