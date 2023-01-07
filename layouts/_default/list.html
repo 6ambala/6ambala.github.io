@@ -1,34 +1,17 @@
 {{ define "main" }}
     <div class="div-projects">
         <ul class="ul-projects">
-            <li class="li-projects">
-                <a href="/portfolio/aerostat">
-                    <img src="/portfolio/aerostat/thumb.png" class="thumb" alt=""> <br>
-                    Аэростат</a>
-            </li>
-            <li class="li-projects">
-                <a href="/portfolio/films">
-                    <img src="/portfolio/films/thumb.png" class="thumb" alt=""> <br>
-                    Рисунки к фильмам
-                </a>
-            </li>
-            <li class="li-projects">
-                <a href="/portfolio/illustrations">
-                    <img src="/portfolio/illustrations/thumb.png" class="thumb" alt=""> <br>
-                    Иллюстрации</a>
-            </li>
-            <li class="li-projects">
-                <a href="/portfolio/graphics">
-                    <img src="/portfolio/graphics/thumb.png" class="thumb" alt=""> <br>
-                    Графика и живопись
-                </a>
-            </li>
-            <li class="li-projects">
-                <a href="/portfolio/walls">
-                    <img src="/portfolio/walls/thumb.png" class="thumb" alt=""> <br>
-                    Роспись стен
-                </a>
-            </li>
+            {{ range .Site.Menus.main }}
+                {{ if .Params.Portfolio }}
+                    <li class="li-projects">
+                        <a href="{{ .URL }}">
+                            <img src="{{ .URL }}/thumb.png" class="thumb" alt="{{ .Name }}">
+                            <br>
+                            {{ .Name }}
+                        </a>
+                    </li>
+                {{ end }}
+            {{ end }}
         </ul>
     </div>
 {{ end }}

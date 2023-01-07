@@ -1,6 +1,9 @@
-+++
-title = "О себе"
-+++
+---
+menu:
+  main:
+    name: "О себе"
+    weight: 1
+---
 ![Это я][1]
 
 #### About me

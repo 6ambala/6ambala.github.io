@@ -6,10 +6,3 @@ minify: false
 enableGitInfo: true
 params:
   home: /portfolio
-  navlinks:
-    - "О себе": /about
-    - "Аэростат": /portfolio/aerostat
-    - "Рисунки к фильмам": /portfolio/films
-    - "Иллюстрации": /portfolio/illustrations
-    - "Графика и живопись": /portfolio/graphics
-    - "Роспись стен": /portfolio/walls
