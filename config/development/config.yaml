@@ -1,5 +1,5 @@
 baseURL: http://art.bartosh.org/
-languageCode: ru-ru
+languageCode: ru
 title: Марина Бартош
 buildDrafts: true
 minify: false
