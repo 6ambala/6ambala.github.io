@@ -1,0 +1,6 @@
+baseURL: http://art.bartosh.org/
+languageCode: ru
+title: Марина Бартош
+enableGitInfo: true
+params:
+  home: /portfolio

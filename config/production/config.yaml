@@ -1,6 +1,2 @@
-baseURL: http://art.bartosh.org/
-languageCode: ru
-title: Марина Бартош
 enableRobotsTXT: true
 minify: true
-enableGitInfo: true

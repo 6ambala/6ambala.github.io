@@ -1,4 +1,5 @@
-<a href="/"><img src="/images/header.png" class="header"></a>
+{{ $img := resources.Get "header.png" }}
+<a href="/"><img src="{{ $img.RelPermalink }}" class="header"></a>
 <hr class="hr-menu">
 <div class="div-menu">
     <ul class="ul-menu">
