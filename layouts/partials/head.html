@@ -2,5 +2,6 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="/css/style.css" type="text/css" media="screen">
+    {{ $css := resources.Get "main.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" type="text/css" media="screen,print">
 </head>
