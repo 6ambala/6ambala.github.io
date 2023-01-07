@@ -1,7 +1,7 @@
-<div class="divnav">
-    <a href="/"><img src="https://via.placeholder.com/150" class="header"></a>
-    <hr>
-    <ul class="ulnav">
+<a href="/"><img src="/images/header.png" class="header"></a>
+<hr class="hr-menu">
+<div class="div-menu">
+    <ul class="ul-menu">
         {{ range .Site.Params.Navlinks }}
             {{ range $title, $url := . }}
                 <li>

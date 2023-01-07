@@ -5,7 +5,7 @@ buildDrafts: true
 minify: false
 enableGitInfo: true
 params:
-  # DebugMenu: true
+  home: /portfolio
   navlinks:
     - "О себе": /about
     - "Аэростат": /portfolio/aerostat

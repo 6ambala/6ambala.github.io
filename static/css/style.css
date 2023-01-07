@@ -1,62 +1,91 @@
 /* Common elements */
-a {
-    border-bottom: 0px solid #999;
-    color:#999;
+body {
+    color: #000;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    line-height: 20px;
+    padding: 27px 27px 27px 27px;
+    text-align: center;
 }
 
-a:active {
+a {
     text-decoration: none;
-    color:#000;
 }
 
 a:link {
-    text-decoration: none;
-    color:#999;
+    color: #999;
 }
 
-hr {
-    visibility: hidden;
+a:visited {
+    color: #999;
 }
 
-body {
-    font-family: "Courier New", Courier, monospace;
-    line-height: 25px;
-    padding: 27px 27px 27px 27px;
+a:hover {
     color: #000;
 }
 
-/* Navigation: nav.html */
-.divnav {
-    float: left;
+/* Base - baseof.html */
+.home {
     margin: 0px auto;
-    width: 15%;
+    width: 100%;
     padding: 0px 0px;
-    list-style: none;
+    text-align: left;
 }
 
-.ulnav {
-    list-style: none;
-    padding: 10px;
+/* Main menu - nav.html */
+.hr-menu {
+    clear: both;
+    display: block;
+    margin: 0px 0px 45px;
+    overflow: hidden;
+    visibility: hidden;
 }
 
-/* Main content */
-.content {
-    float: left;
+.div-menu {
+    margin: 0px auto;
+    width: 100%;
+    padding: 0px 0px;
+    text-align: left;
+}
+
+.ul-menu {
+    left: 18px;
+    list-style: none;
+    margin: 10px 0px 0px 20px;
     padding: 0px;
+    position: absolute;
+    text-overflow: ellipsis;
+    top: 225px;
+    width: 250px;
+}
+
+/* Portfolio list.html */
+.thumb:hover {
+    outline: 6px solid #c0fbb7;
+}
+
+.div-projects {
     margin: -257px 20px 0 265px;
     position: relative;
 }
 
-.body {
-    padding: 0px 0px;
+.ul-projects li {
+    display: inline;
+    font-size: 12px;
+    padding: 0px 35px 17px 0px;
+    text-overflow: ellipsis;
+    text-align: center;
 }
 
-/* About */
-
-.about {
+.li-projects {
     float: left;
-    width: 85%;
-    padding: 0px 0px;
-    margin: 0px 0px 0px 0px;
     position: relative;
+}
+
+/* About - single.html */
+.div-about {
+    margin: -257px 20px 0 0;
+    position: relative;
+    left: 300px;
+    width: 65%;
 }
