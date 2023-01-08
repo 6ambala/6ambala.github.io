@@ -8,4 +8,4 @@ menu:
 ---
 # Аэростат
 
-![test](053.png)
+![test1](A917.png) ![test](053.png)
