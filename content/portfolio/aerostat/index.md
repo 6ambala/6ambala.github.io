@@ -8,4 +8,4 @@ menu:
 ---
 # Аэростат
 
-![test](https://aerostatbg.ru//sites/default/files/styles/square_crop/public/releases/918.jpg)
+![test](053.png)
