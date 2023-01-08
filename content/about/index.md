@@ -6,21 +6,47 @@ menu:
 ---
 ![Это я][1]
 
-#### About me
+## Марина Бартош
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+художник-иллюстратор, арт-терапевт
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+### Образование 
+
+* Институт современных психологических технологий – арт-терапевт – Москва, 2020
+* Институт современных  знаний – дизайнер одежды – Минск, 2010
+
+##### чё я делала
+
+* 2022 финалист конкурса Стрит-арта, проект Контуры Культуры: Роспись библиотеки 233 и 172, Москва
+* 2020 выставка и арт-резиденция, Фонд Четверг: инсталляция “В лабиринте памяти”, (коллаборация с Павлом Сучковым), проект Арт-Память, Москва
+* 2020 проект ИСКО-Ч по росписи стен школы N.65, Чебоксары 
+* 2019 коллективная выставка, инсталляция “Нулевой Меридиан”, культурный центр “Порт”, Сургут 
+* 2019 коллективная выставка “Параллели визуального восприятия”, Московский академический художественный лицей Российской академии художеств, Москва 
+* 2018 мастер-класс в рамках фестиваля “Уши, Глаза, Руки”, дом-музей Велимира Хлебникова, Астрахань
+* 2018 персональная выставка работ из фильма “Критик”, кинотеатр ЛенДок, Санкт-Петербург
+* 2018 коллективная выставка, инсталляция “Нулевой Меридиан”(коллаборация с Павлом Сучковым), ок16, Минск
+* 2017 персональная выставка “В прозрачном городе”, дом-музей Велимира Хлебникова, Астрахань
+
+### Работа над фильмами:
+
+* 2021 «Джазист», режиссер А.Айрапетов
+* 2019 «Браво Story», режиссер А.Айрапетов
+* 2018 «Критик», режиссер А.Айрапетов
 
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+#### Награды:
 
-#### Education
+* XXI Международный конкурс портретов АртПлей Москва, 2016 - 1 место, графика портретов известной личности "Earthling" совместная работа с Екатериной Корчагиной 
+* Межрегиональный конкурс “Наималы” по творчеству Велимира Хлебникова в номинации “Изобразительное искусство” диплом II степени за работу “Числа” Министерство культуры Астраханской области Региональное отделение Всероссийской ассоциации искусствоведов. 2014
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+https://mosproducer.ru/project/kontury-kultury/
+https://cheb.media/2020/07/30/graffiti-65shkola/
+https://g.co/arts/G9BrBabE6cGGv7Ut9
+https://www.kinopoisk.ru/film/1118093/
+http://www.domvelimira.ru/data/events/2017/05/vistavka_grafiki_marini_bartosh/index.php 
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then.
+
+
 
 
 
