@@ -7,6 +7,5 @@ menu:
       portfolio: yes
 ---
 # Аэростат
-![title 1][picture1.png]
-![title 2][picture2.png]
-![title 3][picture3.png]
+
+![test](https://aerostatbg.ru//sites/default/files/styles/square_crop/public/releases/918.jpg)
