@@ -7,4 +7,6 @@ menu:
       portfolio: yes
 ---
 Иллюстрации
-#2022![Обложка Радиосон](Radioson.png)
+
+##2022 
+![Обложка Радиосон](Radioson.png)
