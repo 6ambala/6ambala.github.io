@@ -10,3 +10,4 @@ menu:
 
 
 ![Обложка Радиосон](Radioson.png)
+[прочитать здесь](https://www.litres.ru/petr-gryadenskiy/radioson-traktat-o-svobode-voli/chitat-onlayn/)
