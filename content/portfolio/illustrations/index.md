@@ -13,6 +13,6 @@ menu:
 [прочитать здесь](https://www.litres.ru/petr-gryadenskiy/radioson-traktat-o-svobode-voli/chitat-onlayn/)
 
 
-![](467_6748-15.png)
+![Книга Дениса Трусова "Мутя"](467_6748-15.png)
 
-![](MM_.png)
+![иллюстрация в журнале Машины и Механизмы](MM_.png)
