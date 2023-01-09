@@ -33,12 +33,12 @@ menu:
 * 2018 [«Критик»](https://www.kinopoisk.ru/film/1118093/), режиссер А.Айрапетов
  
  ### Подкасты с моим участием:
-  #### 2022 
-  [Kranky Talk](https://kranky-talk.mave.digital/ep-4)  
-  [Узелок](https://uzelok.mave.digital/ep-3)
-  #### 2020 
-  [Mirum in Modum ч.1](https://regress78.com/mirum-in-modum-024/)  
-  [Mirum in Modum ч.2](https://regress78.com/mirum-in-modum-025/)
+  * 2022 
+    * [Kranky Talk](https://kranky-talk.mave.digital/ep-4)  
+    * [Узелок](https://uzelok.mave.digital/ep-3)
+  * 2020 
+    * [Mirum in Modum ч.1](https://regress78.com/mirum-in-modum-024/)  
+    * [Mirum in Modum ч.2](https://regress78.com/mirum-in-modum-025/)
 
 #### Награды:
 
