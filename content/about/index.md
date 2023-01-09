@@ -40,6 +40,11 @@ menu:
     * [Mirum in Modum ч.1](https://regress78.com/mirum-in-modum-024/)  
     * [Mirum in Modum ч.2](https://regress78.com/mirum-in-modum-025/)
 
+### Видео
+
+* Роспись в библиотеке №172 {{<youtube "LBjUKOtjg98">}}
+* Роспись в библиотеке №233 {{<youtube "-A5kSqMtoSA">}}
+
 #### Награды:
 
 * XXI Международный конкурс портретов АртПлей Москва, 2016 - 1 место, графика портретов известной личности "Earthling" совместная работа с Екатериной Корчагиной 
