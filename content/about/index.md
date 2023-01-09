@@ -34,8 +34,8 @@ menu:
  
  ### Подкасты с моим участием:
   #### 2022 
-  [Kranky Talk] (https://kranky-talk.mave.digital/ep-4)
-  [Узелок] (https://uzelok.mave.digital/ep-3)
+  [Kranky Talk](https://kranky-talk.mave.digital/ep-4)  
+  [Узелок](https://uzelok.mave.digital/ep-3)
 
 #### Награды:
 
