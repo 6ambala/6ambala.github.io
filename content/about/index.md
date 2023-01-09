@@ -31,8 +31,11 @@ menu:
 * 2021 «Джазист», режиссер А.Айрапетов
 * 2019 «Браво Story», режиссер А.Айрапетов
 * 2018 [«Критик»](https://www.kinopoisk.ru/film/1118093/), режиссер А.Айрапетов
-
-
+ 
+ ### Подкасты с моим участием:
+  #### 2022 
+  [Kranky Talk] (https://kranky-talk.mave.digital/ep-4)
+  [Узелок] (https://uzelok.mave.digital/ep-3)
 
 #### Награды:
 
