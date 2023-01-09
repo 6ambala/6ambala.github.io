@@ -9,5 +9,8 @@ menu:
 Иллюстрации
 
 
-![Обложка Радиосон](Radioson.png)
+![Обложка Радиосон](Radioson.png)  
 [прочитать здесь](https://www.litres.ru/petr-gryadenskiy/radioson-traktat-o-svobode-voli/chitat-onlayn/)
+
+
+![](467_6748-15.png)
