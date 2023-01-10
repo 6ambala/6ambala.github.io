@@ -18,4 +18,5 @@ menu:
 {{<image a519.png 200x>}}
 {{<image a911.png 200x>}}
 {{<image a903.png 200x>}}
-{{<image a915.png 200x>}}
+{{<image a898.png 200x>}}
+{{<image a868.png 200x>}}
