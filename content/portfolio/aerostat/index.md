@@ -15,3 +15,4 @@ menu:
 
 {{<image A917.png 100x>}}
 {{<image а074.png 100x>}}
+{{<image A879.png 100x>}}
