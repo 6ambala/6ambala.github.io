@@ -19,7 +19,7 @@ menu:
 {{<image a911.png 200x>}}
 {{<image a903.png 200x>}}
 {{<image a898.png 200x>}}
-{{<image a868.png 200x>}} 
+{{<image a868.png 200x>}}  
 {{<image A060.png 200x>}}
 {{<image a016.png 200x>}}
 {{<image a024.png 200x>}}
