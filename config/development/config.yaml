@@ -1,8 +1,2 @@
-baseURL: http://art.bartosh.org/
-languageCode: ru
-title: Марина Бартош
 buildDrafts: true
 minify: false
-enableGitInfo: true
-params:
-  home: /portfolio
