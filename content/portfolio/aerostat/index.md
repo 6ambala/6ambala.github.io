@@ -8,11 +8,8 @@ menu:
 ---
 # Аэростат
 
-![test1](A917.png) ![test](053.png)
+{{<image 053.png 200x>}}
 
-
-{{<image 053.png 100x>}}
-
-{{<image A917.png 100x>}}
-{{<image а074.png 100x>}}
-{{<image A879.png 100x>}}
+{{<image A917.png 200x>}}
+{{<image а074.png 200x>}}
+{{<image A879.png 200x>}}
