@@ -87,11 +87,13 @@ a:hover {
     margin: -257px 10px 0 0;
     position: relative;
     left: 200px;
+    font-size: 10px;
 }
 
 @media (min-width: 600px) {
     .div-about {
         left: 300px;
+        font-size: 17px;
     }
 }
 
