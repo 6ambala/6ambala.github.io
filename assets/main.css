@@ -84,9 +84,9 @@ a:hover {
 
 /* About - single.html */
 .div-about {
-    margin: -100px 10px 0 0;
+    margin: -200px 10px 0 0;
     position: relative;
-    left: 150px;
+    left: 200px;
 }
 
 @media (min-width: 600px) {
