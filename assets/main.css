@@ -89,3 +89,14 @@ a:hover {
     left: 300px;
     width: 65%;
 }
+
+/* 404.html */
+.div-404 {
+    margin: -257px 20px 0 0;
+    position: relative;
+    left: 300px;
+}
+.div-404 a {
+    color: #830455;
+    font-weight: 200;
+}
