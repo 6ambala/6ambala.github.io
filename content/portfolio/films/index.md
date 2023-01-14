@@ -9,7 +9,7 @@ menu:
 Рисунки к фильмам
 
 ![прессконференция Критик](08-14-Kino_2.png)  
-![Д.Боуи](DBcopy.png) (image 05NC.png 200x) (image 03BG.png 200x)
+![Д.Боуи](DBcopy.png) [](image 05NC.png 200x) [](image 03BG.png 200x)
 
 ![](02B52s.png)
 
