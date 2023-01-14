@@ -10,6 +10,8 @@ menu:
 
 ![прессконференция Критик](08-14-Kino_2.png)  
 ![Д.Боуи](DBcopy.png) 
+
+02B52s.png
 {{<image 02B52s.png 200x>}}  
 {{<image 05NC.png 200x>}} {{<image 03BG.png 200x>}}
 
