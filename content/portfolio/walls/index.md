@@ -16,10 +16,7 @@ menu:
 
 {{<image XXXL.jpg 500x>}}
 
-
-
 {{<image hels2.jpg 500x>}}{{<image helsinki.jpg 500x>}}
 
  <br><br>
-
 {{<image school.png 500x>}}
