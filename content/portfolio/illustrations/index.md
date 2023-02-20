@@ -19,6 +19,6 @@ menu:
 
 {{<image b_2.png 500x>}} {{<image b_1.png 500x>}}<br><br>
 
-{{<image uzelok.jpg 300x>}} {{<image yakudzaLIS.jpg 500x>}}<br><br>
+{{<image uzelok.jpg 300x>}} {{<image yakudzaLIS.jpg 500x>}} 
 
 
