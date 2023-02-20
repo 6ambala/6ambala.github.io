@@ -9,13 +9,14 @@ menu:
 Иллюстрации дизайн
 
 
-![Обложка Радиосон](Radioson.png)
+{{<image Chebo.jpg 500x>}}{{<image Chebo2.jpg500x>}}
 
-[прочитать здесь](https://www.litres.ru/petr-gryadenskiy/radioson-traktat-o-svobode-voli/chitat-onlayn/)
+
+
 
 ![Книга Дениса Трусова "Мутя"](467_6748-15.png) {{<image MM_.png 500x>}
 
-{{<image birdsp0i6UqagbrE.png 500x>}} {{<image Ateneum.jpg 500x>}}<br><br>
+{{<image birdsp0i6UqagbrE.png 700x>}} {{<image Ateneum.jpg 500x>}}<br><br>
 
 {{<image PO.jpg 500x>}} {{<image preview-5430ab355717e4d4024ca652dba28f8e.jpg 500x>}}<br><br>
 
