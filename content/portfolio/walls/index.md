@@ -7,14 +7,11 @@ menu:
       portfolio: yes
 ---
 Роспись стен
-![Библиотека в Митино](DSC09633.png)  
-![hj](DSC02152.png) 
-![gh](DSC03262.png)  
 
-![gh](DSC09619.png)  
-![gh](DSC09633.png ) 
+{{<image DSC09619.png 500x>}} <br><br>
 
-![gh](КАФЕ.png)
+{{<image DSC02152.png 500x>}}{{<image DSC03262.png 500x>}}<br><br>
 
+{{<image Cafe.png 500x>}}<br><br>
 
-![gh](роспись_школа.png)
+{{<image school.png 500x>}}
