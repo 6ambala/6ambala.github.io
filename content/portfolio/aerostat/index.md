@@ -13,22 +13,22 @@ menu:
 {{<image а074.png 200x>}}
 {{<image A879.png 200x>}}
 {{<image a896.png 200x>}}
-{{<image a320.png 200x>}}  
+{{<image a320.png 200x>}}
 {{<image a904.png 200x>}}
 {{<image a519.png 200x>}}
 {{<image a911.png 200x>}}
 {{<image a903.png 200x>}}
 {{<image a898.png 200x>}}
-{{<image a868.png 200x>}}  
+{{<image a868.png 200x>}}
 {{<image A060.png 200x>}}
 {{<image a016.png 200x>}}
 {{<image a024.png 200x>}}
 {{<image a134.png 200x>}}
 {{<image a139.png 200x>}}
-{{<image a197.png 200x>}}  
-{{<image a269.png 200x>}} 
+{{<image a197.png 200x>}}
+{{<image a269.png 200x>}}
 {{<image a394.png 200x>}}
 {{<image a734.png 200x>}}
 {{<image a871_sm.png 200x>}}
 {{<image a875.png 200x>}}
-{{<imagea912.png 200x>}}
+{{<image a912.png 200x>}}
