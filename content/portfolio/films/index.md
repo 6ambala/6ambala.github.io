@@ -8,13 +8,18 @@ menu:
 ---
 Рисунки к фильмам
 
-![прессконференция Критик](08-14-Kino_2.png)
+![](Kino2.png)
 
-![Д.Боуи](DBcopy.png) ![НК](05NC.png) ![БГ](03BG.png)
+Прессконференция Критик
 
-![](02B52s.png)
+{{<image DBcopy.png 200x>}} {{<image 05NC.png 300x>}}НК {{<image 03BG.png 350x>}}БГ
 
+Дэвид Боуи
 
+![B52](B52.png)
+
+B52
 
 ![Премьера фильма Джазист](https://user-images.githubusercontent.com/122204837/211289502-78c41f42-2e7e-422b-a19e-4c7543bdb95b.png)
 
+Премьера фильма Джазист
