@@ -1,24 +1,24 @@
 ---
 menu:
   main:
-    name: "Иллюстрации"
+    name: "Иллюстрации и дизайн"
     weight: 5
     params:
       portfolio: yes
 ---
-Иллюстрации
+Иллюстрации дизайн
 
 
-![Обложка Радиосон](Radioson.png)  
+![Обложка Радиосон](Radioson.png)
+
 [прочитать здесь](https://www.litres.ru/petr-gryadenskiy/radioson-traktat-o-svobode-voli/chitat-onlayn/)
 
+![Книга Дениса Трусова "Мутя"](467_6748-15.png) ![иллюстрация в журнале Машины и Механизмы](MM_.png)
 
-Книга Дениса Трусова "Мутя ![Книга Дениса Трусова "Мутя"](467_6748-15.png)
+{{<image birdsp0i6UqagbrE.png 500x>}} {{<image Ateneum.jpg 500x>}}<br><br>
 
-иллюстрация в журнале Машины и Механизмы ![иллюстрация в журнале Машины и Механизмы](MM_.png)
+{{<image PO.jpg 500x>}} {{<image preview-5430ab355717e4d4024ca652dba28f8e.jpg 500x>}}<br><br>
 
+{{<image b_2.png 500x>}} {{<image b_1.png 500x>}}<br><br>
 
-
-
-
-![](birdsp0i6UqagbrE.png)
+{{<image uzelok.jpg 500x>}} {{<image yakudzaLIS.jpg 500x>}}<br><br>
