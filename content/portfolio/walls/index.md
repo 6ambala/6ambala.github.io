@@ -14,7 +14,7 @@ menu:
 
 {{<image caffe_progr.jpg 500x>}}{{<image XXXL.jpg 500x>}} 
 
-{{<image Cafe.png 700x>}} 
+{{<image Cafe.png 900x>}} 
 
 {{<image hels2.jpg 500x>}} 
 {{<image helsinki.jpg 500x>}}
