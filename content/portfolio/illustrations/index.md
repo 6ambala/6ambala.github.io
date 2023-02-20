@@ -9,7 +9,7 @@ menu:
 Иллюстрации дизайн
 
 
-{{<image Chebo.jpg 500x>}} {{<image Chebo2.jpg 500x>}}<br><br> 
+{{<image Chebo.jpg 500x>}} {{<image chebo2.jpg 500x>}}<br><br> 
 
 {{<image birdsp0i6UqagbrE.png 700x>}} {{<image Ateneum.jpg 500x>}}<br><br> 
 
