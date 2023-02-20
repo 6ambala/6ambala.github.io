@@ -8,7 +8,7 @@ menu:
 ---
 Роспись стен
 
-{{<image DSC09619.png 500x>}} {{<imageDSC09615.jpg 500x>}}   <br><br>
+{{<image DSC09619.png 500x>}}{{<imageDSC09615.jpg 500x>}}   <br><br>
 
 {{<image DSC02152.png 500x>}}{{<image DSC03262.png 500x>}}<br><br>
 
