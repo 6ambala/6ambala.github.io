@@ -16,6 +16,8 @@ menu:
 
 ![B52](B52.png)
 
+03BG.png
+
 {{<image IggyPop.png 500x>}} {{<image 04Mike.png 500x>}}
 
 {{<image 08ZZZ.png 400x>}} {{<image 06SP.png 600x>}}
