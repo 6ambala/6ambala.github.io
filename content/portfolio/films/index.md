@@ -24,10 +24,14 @@ menu:
 ![Z](Z.png)
 ![SP](SP.png)
 
+![BS](BS.png) 
+![BS+](BS+.png)  
 
 ![Премьера фильма Джазист](Jazzman.png)
 
 Премьера фильма Джазист
 ![J](J.png) 
+
+
 
 
