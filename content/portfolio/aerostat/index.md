@@ -6,32 +6,17 @@ menu:
     params:
       portfolio: yes
 ---
-# Аэростат
+# Аэростат Aerostatbg.ru
 
-{{<image 053.png 200x>}}
-{{<image A917.png 200x>}}
-{{<image а074.png 200x>}}
-{{<image A879.png 200x>}}
-{{<image a896.png 200x>}}
-{{<image a320.png 200x>}}
 
-{{<image a904.png 200x>}}
-{{<image a519.png 200x>}}
-{{<image a911.png 200x>}}
-{{<image a903.png 200x>}}
-{{<image a898.png 200x>}}
-{{<image a868.png 200x>}}
+![4](420.png)
 
-{{<image A060.png 200x>}}
-{{<image a016.png 200x>}}
-{{<image a024.png 200x>}}
-{{<image a134.png 200x>}}
-{{<image a139.png 200x>}}
-{{<image a197.png 200x>}}
+![8](483+.png)
 
-{{<image a269.png 200x>}}
-{{<image a394.png 200x>}}
-{{<image a734.png 200x>}}
-{{<image a871_sm.png 200x>}}
-{{<image a875.png 200x>}}
-{{<image a912.png 200x>}}
+![7](64.png)
+
+![6](836.png)
+
+![5](853.png )
+
+
