@@ -17,6 +17,8 @@ menu:
 
 
 ![BG](03BG.png)
+![VU](VU+.png) 
+![TW](TomWaits+.png)
 
 
 
