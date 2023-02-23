@@ -22,6 +22,7 @@ menu:
 
 ![NC](NC.png) 
 ![Z](Z.png)
+![SP](SP.png)
 
 
 ![Премьера фильма Джазист](Jazzman.png)
