@@ -59,29 +59,6 @@ a:hover {
     width: 250px;
 }
 
-/* Portfolio list.html */
-.thumb:hover {
-    outline: 6px solid #c0fbb7;
-}
-
-.div-projects {
-    margin: -257px 20px 0 265px;
-    position: relative;
-}
-
-.ul-projects li {
-    display: inline;
-    font-size: 12px;
-    padding: 0px 35px 17px 0px;
-    text-overflow: ellipsis;
-    text-align: center;
-}
-
-.li-projects {
-    float: left;
-    position: relative;
-}
-
 /* About - single.html */
 .div-about {
     margin: -257px 10px 0 0;

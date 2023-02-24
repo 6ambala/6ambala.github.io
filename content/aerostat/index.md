@@ -3,8 +3,6 @@ menu:
   main:
     name: "Аэростат"
     weight: 2
-    params:
-      portfolio: yes
 ---
 # Аэростат Aerostatbg.ru
 
@@ -14,12 +12,12 @@ menu:
 
 
 
-![4](075.png) 
+![4](075.png)
 ![4](125.png)
  ![4](420.png)
  ![90](590.png)
 ![6](521.png)
-![6](poster.png) 
+![6](poster.png)
 ![4](320.png)
 ![6](608.png)
 ![6](637.png)
@@ -38,5 +36,5 @@ menu:
 
 ![4](627.png)
 ![5](853.png)
-![4](875.png) 
+![4](875.png)
 ![4](908.png)
