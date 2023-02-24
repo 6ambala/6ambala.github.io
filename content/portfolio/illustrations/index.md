@@ -22,5 +22,6 @@ menu:
 ![Ch](sk.png)
 ![0](0.png)
 Иммерсивная инсталляция Нулевой Меридиан, 2018
+![0](B.png)
 
 {{<image uzelok.jpg 400x>}} {{<image yakudzaLIS.jpg 600x>}}
