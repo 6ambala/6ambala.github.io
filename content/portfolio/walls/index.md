@@ -8,13 +8,12 @@ menu:
 ---
 Роспись стен
 
-{{<image DSC09619.png 500x>}}{{<image DSC09615.jpg 500x>}}<br><br>
+![](DSC09619.png) ![](DSC09615.jpg)
 
-{{<image DSC02152.png 500x>}}{{<image DSC03262.png 500x>}}<br><br>
+![](DSC02152.png) ![](DSC03262.png)
 
-{{<image caffe_progr.jpg 500x>}}{{<image XXXL.jpg 500x>}} 
+![](caffe_progr.jpg) ![](XXXL.jpg)
 
-{{<image Cafe.png 1000x>}} 
+![](Cafe.png)
 
-
-{{<image helsinki.jpg 500x>}}{{<image school.png 500x>}}
+![](helsinki.jpg) ![](school.png)
