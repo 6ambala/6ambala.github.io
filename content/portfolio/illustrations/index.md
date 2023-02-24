@@ -22,4 +22,4 @@ menu:
 ![Ch](sk.png)
 
 
-{{<image uzelok.jpg 400x>}} {{<image yakudzaLIS.jpg 500x>}}
+{{<image uzelok.jpg 400x>}} {{<image yakudzaLIS.jpg 600x>}}
