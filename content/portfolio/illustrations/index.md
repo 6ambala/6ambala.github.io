@@ -20,7 +20,8 @@ menu:
 ![Ch](14j.png)  
 ![Ch](S.png)
 ![Ch](sk.png)
-![0](0.png)Инсталляция Нулевой Меридиан, 2018 ![0](B.png)
+![0](0.png) [0](B.png)
+Инсталляция Нулевой Меридиан, 2018 !
 
 
-{{<image uzelok.jpg 400x>}} {{<image yakudzaLIS.jpg 600x>}}
+{{<image uzelok.jpg 400x>}} ![0](B.png)
