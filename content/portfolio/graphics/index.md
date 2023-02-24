@@ -8,22 +8,18 @@ menu:
 ---
 *Графика и живопись*
 
-{{<image 1.jpg 200x>}}
-{{<image 2.jpg 200x>}}
-{{<image 1UyIGDqlJQs.jpg 340x>}}
+![21](21_1.png)
+![22](21_2.png) 
+![21](21_3.png) 
 
-{{<image 0000Kxzyeu_Av40.jpg 200x>}}
-{{<image 000IO2u_AKGd2s.jpg 200x>}}
-{{<image 173204_o.jpg 224x>}}
+![21](100_1.png)
+![21](100_2.png)
+![21](100_3.png) 
 
-{{<image A9F53093-FEDB-42DD-AF16-343DCC148909.JPG 213x>}}
-{{<image IMG_9603.JPG 200x>}}
-{{<image IMG_9638.JPG 200x>}}
+![21](100_4.png)
+![21](100_5.png)
+![21](100_6.png) 
 
-{{<image P_02.jpg 200x>}}
-{{<image P_03.jpg 200x>}}
-{{<image p_01.jpg 200x>}}
-
-{{<image P_05.jpg 200x>}}
-{{<image P_04.jpg 200x>}}
-{{<image P_06.jpg 200x>}}
+![21](port.png)
+![21](CR.png)
+![21](DB.png)
