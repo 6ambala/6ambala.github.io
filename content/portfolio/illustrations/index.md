@@ -29,7 +29,7 @@ menu:
 
 ![k](16.png)
 ![k](CAL.png) 
-![k](Calend.png)
+![k](Calend.png) 
 ![k](CR.png)
 ![0](B.png)
 ![0](L.png)  
