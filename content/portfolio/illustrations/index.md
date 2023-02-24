@@ -15,8 +15,8 @@ menu:
 
 ![Книга Дениса Трусова "Мутя"](467_6748-15.png) {{<image MM_.png 400x>}}<br><br>
 
-{{<image PO.jpg 500x>}} {{<image preview-5430ab355717e4d4024ca652dba28f8e.jpg 500x>}}<br><br>
+{{<image PO.jpg 500x>}} 
+{{<image preview-5430ab355717e4d4024ca652dba28f8e.jpg 500x>}}<br><br>
 
-{{<image b_2.png 500x>}} {{<image b_1.png 500x>}}<br><br>
 
 {{<image uzelok.jpg 400x>}} {{<image yakudzaLIS.jpg 500x>}}
