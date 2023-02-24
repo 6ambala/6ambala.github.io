@@ -27,7 +27,6 @@ menu:
 [0](B.png)
 Инсталляция Нулевой Меридиан, 2018 
 
-![k](16.png)
 ![k](CAL.png) 
 ![k](Calend.png) 
 ![k](CR.png)
