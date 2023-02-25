@@ -35,5 +35,6 @@ menu:
 ![k](CR.png)
 ![k](Calend.png)
 ![m](M.png)
+корпоративные календари для [Нового Города](https://ng21.ru/)
 ![0](B.png)
 ![0](L.png)
