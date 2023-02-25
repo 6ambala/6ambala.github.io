@@ -26,7 +26,7 @@ menu:
 
 ![k](K.png)
 
-Логотип [подкаст Маши Волковой](https://uzelok.mave.digital/)
+Логотип [подкаста Маши Волковой](https://uzelok.mave.digital/)
 
 
 **КАЛЕНДАРИ
