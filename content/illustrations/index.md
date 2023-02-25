@@ -27,7 +27,6 @@ menu:
 
 Узелок, [подкаст Маши](https://uzelok.mave.digital/)
 
-![0](B.png)
 
 **КАЛЕНДАРИ
 
