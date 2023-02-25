@@ -4,12 +4,7 @@ menu:
     name: "Аэростат"
     weight: 2
 ---
-# Аэростат Aerostatbg.ru
-
-
-
-
-
+# [Аэростат](https://aerostatbg.ru)
 
 
 ![4](075.png)  
@@ -23,14 +18,11 @@ menu:
 ![6](a666.png) ![6](836.png)
 
 
-
 ![8](VH.png)
 ![7](64.png)
 ![9](VH2.png)
 ![10](VHBG.png)
 ![11](VHBG2.png)
-
-
 
 
 ![4](627.png)
