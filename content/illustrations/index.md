@@ -9,7 +9,7 @@ menu:
 ![Ch](Chebo.png)
 ![Ch](ch2.png)
 
-2020-2022 Футболки и другой мерч Любительские теннисные турниры серии Grand Slam Volga (ссылка)
+2020-2022 Футболки и другой мерч Любительские теннисные турниры серии [Grand Slam Volga](https://www.instagram.com/arutiunianopen/?hl=en)
 
 ![Ch](DD.png)
 ![T](T.png)
