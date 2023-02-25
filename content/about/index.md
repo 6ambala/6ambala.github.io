@@ -7,10 +7,11 @@ menu:
 ![Это я](DSC02846.png)
 ## Марина Бартош
 
-художник-иллюстратор, арт-терапевт 
-[еmail](marinebartoshbar@gmail.com)
+художник-иллюстратор, арт-терапевт  
+
+marinebartoshbar@gmail.com
 [Бартош Бар вк](https://vk.com/bartoshbar)
-[телеграм](@BartoshBar)
+телеграм @BartoshBar
 
 ### Образование 
 
