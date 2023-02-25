@@ -8,6 +8,9 @@ menu:
 ## Марина Бартош
 
 художник-иллюстратор, арт-терапевт
+[еmail](marinebartoshbar@gmail.com)
+[вк](https://vk.com/bartoshbar)
+[тг](@BartoshBar)
 
 ### Образование 
 
