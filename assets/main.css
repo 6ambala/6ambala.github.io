@@ -56,7 +56,7 @@ a:hover {
     position: absolute;
     text-overflow: ellipsis;
     top: 225px;
-    width: 20%;
+    width: 25%;
 }
 
 /* About - single.html */
@@ -65,7 +65,7 @@ a:hover {
     position: relative;
     left: 200px;
     font-size: 13px;
-    max-width: 80%;
+    max-width: 75%;
 }
 
 @media (min-width: 600px) {
