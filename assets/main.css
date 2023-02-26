@@ -59,8 +59,8 @@ a:hover {
     width: 25%;
 }
 
-/* About - single.html */
-.div-about {
+/* Single.html */
+.div-single {
     margin: -257px 10px 0 0;
     position: relative;
     left: 200px;
@@ -70,7 +70,7 @@ a:hover {
 
 /* Desktop */
 @media (min-width: 600px) {
-    .div-about {
+    .div-single {
         left: 300px;
         font-size: 17px;
         max-width: 75%;
