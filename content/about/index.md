@@ -9,9 +9,9 @@ menu:
 
 художник-иллюстратор, арт-терапевт  
 
-marinebartoshbar@gmail.com 
-[Бартош Бар вк](https://vk.com/bartoshbar) 
-телеграм @BartoshBar 
+marinebartoshbar@gmail.com  
+[Бартош Бар вк](https://vk.com/bartoshbar)  
+[телеграм @BartoshBar](https://t.me/bartoshbar) 
 
 ### Образование 
 
