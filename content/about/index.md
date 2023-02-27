@@ -9,11 +9,13 @@ menu:
 
 художник-иллюстратор, арт-терапевт  
 
-marinebartoshbar@gmail.com  
-[Бартош Бар вк](https://vk.com/bartoshbar)  
-[телеграм @BartoshBar](https://t.me/bartoshbar) 
+### Контакты
 
-### Образование 
+* e-mail: [marinebartoshbar@gmail.com](mailto:marinebartoshbar@gmail.com)
+* VK: [bartoshbar](https://vk.com/bartoshbar)
+* Telegram: [bartoshbar](https://t.me/bartoshbar)
+
+### Образование
 
 * Институт современных психологических технологий – арт-терапевт – Москва, 2020
 * Институт современных  знаний – дизайнер одежды – Минск, 2010
