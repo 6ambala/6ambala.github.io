@@ -1,4 +1,5 @@
 build:
 	hugo --cleanDestinationDir
-run:
+
+run: build
 	hugo server -D --disableFastRender

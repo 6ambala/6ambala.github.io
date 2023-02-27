@@ -1,7 +1,12 @@
 <head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    {{ partialCached "favicons.html" . }}
     <title>{{ .Site.Title }}</title>
     {{ $css := resources.Get "main.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" type="text/css" media="screen,print">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.32x32.png">
+    <link rel="shortcut icon" type="image/png" sizes="32x32" href="/favicon.32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.16x16.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="32x32" href="/favicon.32x32.png">
 </head>
