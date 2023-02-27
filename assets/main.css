@@ -43,7 +43,6 @@ a:hover {
 
 .div-menu {
     margin: 0px auto;
-    width: 100%;
     padding: 0px 0px;
     text-align: left;
 }
@@ -56,14 +55,13 @@ a:hover {
     position: absolute;
     text-overflow: ellipsis;
     top: 225px;
-    width: 25%;
 }
 
 /* Single.html */
 .div-single {
     margin: -257px 10px 0 0;
     position: relative;
-    left: 200px;
+    left: 220px;
     width: 220%;
 }
 
