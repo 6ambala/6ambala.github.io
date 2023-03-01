@@ -15,3 +15,5 @@ menu:
 ![](Cafe.png)
 
 ![](helsinki.jpg) ![](school.png)
+
+![](NG.png) ![](NG2.png) 
