@@ -8,6 +8,8 @@ menu:
 
 ![](DSC09619.png) ![](DSC09615.jpg)
 
+![](LW.png) 
+
 ![](DSC02152.png) ![](DSC03262.png)
 
 ![](caffe_progr.jpg) ![](XXXL.jpg)
