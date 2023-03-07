@@ -16,6 +16,6 @@ menu:
 
 ![](helsinki.jpg) ![](school.png)
 
-![](NG.png) 
+![](NG.png)  
 
-![](NG2.png) 
+![](NG2.png)  
