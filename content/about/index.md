@@ -12,8 +12,7 @@ menu:
 ### Контакты
 
 * e-mail: [marinebartoshbar@gmail.com](mailto:marinebartoshbar@gmail.com)
-* VK: [Бартош Бар](https://vk.com/bartoshbar)
-* Telegram: [Bartosh Bar](https://t.me/bartosh_bar) 
+
 
 ### Образование
 
