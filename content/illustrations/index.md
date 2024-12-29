@@ -19,15 +19,6 @@ menu:
 ![](828.png)![](893.png)  
 ![](908+.png)![](917+.png)  
 
-![](mu1.jpeg)
-![](Mu4.jpeg)
-![](mu2.jpeg)
-![](IMG_1271.jpeg)
-![](IMG_1266.jpeg)
-![](IMG_1263.jpeg)
-![](IMG_1261.jpeg)
-![](IMG_1262.jpeg)
-
 
 ![Ch](Chebo.png)
 ![Ch](ch2.png)
