@@ -18,9 +18,8 @@ menu:
 ![VU](VU+.png)
 ![TW](TomWaits+.png)
 
-![NC](NC.png)
-![Z](Z.png)
-![SP](SP.png)
+![NC](NC.png)![Z](Z.png)
+![SP](SP.png)![SP](Снимок экрана 2025-01-05 в 15.35.34.png)
 
 ![BS](BS.png)
 ![BS+](BS+.png)
