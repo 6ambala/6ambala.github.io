@@ -16,11 +16,11 @@ menu:
 
 ![BG](03BG.png)
 ![VU](VU+.png)
-![TW](TomWaits+.png)
+![TW](TomWaits+.png) ![SP](Снимок экрана 2025-01-05 в 15.35.34.png)
+
 
 ![NC](NC.png)![Z](Z.png)
-![SP](SP.png) ![SP](Снимок экрана 2025-01-05 в 15.35.34.png)
-
+![SP](SP.png) 
 ![BS](BS.png)
 ![BS+](BS+.png)
 
