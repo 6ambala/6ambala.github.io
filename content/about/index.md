@@ -50,10 +50,15 @@ menu:
 
 ### Работа над фильмами:
 
-  2024 [«Генераль»]https://www.youtube.com/watch?v=K5EMHsvGN7M
+* 2024 [«Генераль»](https://www.youtube.com/watch?v=K5EMHsvGN7M
 * 2021 [«Джазист»](/www.kinopoisk.ru/film/4476007/), режиссер А.Айрапетов
 * 2019 [«Браво Story»](https://www.kinopoisk.ru/film/1267337/), режиссер А.Айрапетов
 * 2018 [«Критик»](https://www.kinopoisk.ru/film/1118093/), режиссер А.Айрапетов
+
+### Книги :
+2023 Автор Денис Трусов[«Бовь и Мерть в Хротне»](litres.ru/book/bovimertvhrotne 2022)
+2023 Автор [Пётр Гряденский](litres.ru/petr-gryadenskiy/)
+2020 Автор Денис Трусов [Про Мутю](litres.ru/book/promutu)
 
  ### Подкасты с моим участием:
   * 2022
