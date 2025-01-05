@@ -21,7 +21,7 @@ menu:
 
 ![NC](NC.png)![Z](Z.png)
 
-п.png
+![NC](п.png)
 
 
 
