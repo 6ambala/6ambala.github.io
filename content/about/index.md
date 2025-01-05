@@ -37,7 +37,7 @@ menu:
 * 2018 [“100 стихов о луне”](https://www.youtube.com/watch?v=3tQyMuHR2UU&t=1s)(БОБ) Ботаническийсад, Минск 
 * 2018 ["ЕЩЁ"](https://youtu.be/PwxuxLy7L28) (БОБ) [Performensk](https://www.performensk.com/2018-day-2/) Минск 2018 
 * 2018 "Dark Reunion" (БОБ) Ю-фестиваль ок16 Минск 
-* 2017 “Волшебная одноклеточная музыка” (фестиваль ВОМ) Fish Fabrique Санкт-Петербург 
+* 2017 [2ой фестиваль Волшебной Одноклеточной Музыки)](https://vk.com/album-156701389_249664925) Fish Fabrique Санкт-Петербург 
 * 2017 “Зеркальные Дали”(Онтальва-Байгина-Бартош) Москва 
 * 2017 [“Спинойз”](https://www.youtube.com/watch?v=UuLI90awxzM&t=6s), Шум и Радость, Москва 
 * 2017 [“Таящие Дали”](https://www.youtube.com/watch?v=nbGFLGwp_Gk) Москва 
