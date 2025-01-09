@@ -493,6 +493,19 @@ Cлушает молча,
 
 2009
 
+#### НОЧЬ И ТИШИНА
+нужно сказать а нечего
+время становится вечером
+хочется снять все и лечь
+ноль и тишина
+звезды смеются и падают
+вода нас пока еще радует
+рисует двойную радугу
+достанет рукой до дна
+воздух дрожит и плавится
+лето грозит исправиться
+ты посиди. мне нравится
+ночь и тишина
 
 ## дакотским горьким чаем  
 и мятно-льдистым воем  
@@ -699,6 +712,26 @@ Cлушает молча,
 лети куда ветер, пой с закатами Африки.
 ~2008
 
+
+#### LIZARD LYRICS
+Russian fishers robbing bookstores
+I am waiting for your letter
+Viscous dreams drown in the noon stars
+Would you feel a little  better?
+Would you feel like you are wizard
+In the Wonderland of Never
+I am passive like a lizard
+You are high and very clever
+Maya priests revealing day-signs
+I am envy, I am useless
+Ancient scars reminding lifelines
+HEAR the feelings, try to choose this.
+Nervous dreams and lack of phrases
+Can betray my thoughts of Lilith
+Death is close and it will chase us
+While we try exhaust the limit
+
+
 ##### LA PRIMAVERA
 И что, раз я не Стас?
 Могу быть Стасом.
@@ -726,7 +759,14 @@ Cлушает молча,
 Тот самый, что на дне бездонного сосуда.
 Я на пути. Мой курс константа, перманент.
 ~2008
-
+#### OOOO, как прекрасны вы, степные барсуки!
+Cтепные барсуки, как вы прекрасны!
+а также несравненные морские барсы!
+морские барсы и степные барсуки! 
+нет равных вам, таежные слоны,
+вьетнамские жирафы и пустынные гагары,
+и, чудо из чудес, вы, северные львы,
+ах, игуаны прерий, заполярья ягуары!  
 
 Вам не случалось увидать 
 #### Эдит?
