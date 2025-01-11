@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="div-single">
+    <div class="gallery">
+        {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="prev-btn">&#10094;</a>
+        {{ end }}
+        <div>
+            <p>{{ .Params.description }}</p>
+            {{ range .Paginator.Pages }}
+            <img src="{{ .Params.image }}">
+            {{ end }}
+        </div>
+        {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="next-btn">&#10095;</a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
