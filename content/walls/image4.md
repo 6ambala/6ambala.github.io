@@ -1,3 +1,3 @@
 ---
-image: "/walls/NG3.png"
+image: "/walls/б18.png"
 ---

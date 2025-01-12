@@ -1,0 +1,3 @@
+---
+image: "/walls/Бш.png"
+---

@@ -1,3 +1,3 @@
 ---
-image: "/walls/LW.png"
+image: "/walls/б18_3.png"
 ---

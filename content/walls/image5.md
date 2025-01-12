@@ -1,3 +1,3 @@
 ---
-image: "/walls/DSC03262.png"
+image: "/walls/б172_3.png"
 ---
