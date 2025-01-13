@@ -1,1 +1,3 @@
-
+---
+image: "/walls/ш.png"
+---
