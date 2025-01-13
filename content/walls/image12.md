@@ -1,2 +1,3 @@
-image
-/walls/б233_2.png
+---
+image: "/walls//б233_2.png
+---
