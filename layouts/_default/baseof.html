@@ -1,10 +1,16 @@
 <html lang="{{.Site.LanguageCode}}">
-    {{- partial "head.html" . -}}
-    <body>
-        <div class="home">
-           {{- partial "menu.html" . -}}
-           {{ block "main" . }}
-           {{ end }}
+{{- partial "head.html" . -}}
+
+<body>
+    <div class="container">
+        <div class="menu">
+            {{- partial "menu.html" . -}}
         </div>
-    </body>
+        <div class="main">
+            {{ block "main" . }}
+            {{ end }}
+        </div>
+    </div>
+</body>
+
 </html>
