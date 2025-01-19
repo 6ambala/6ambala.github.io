@@ -93,8 +93,8 @@ a:hover {
 /* Phone */
 @media (max-width: 480px) {
     body {
-        font-size: 0.7rem;
-        line-height: 10px;
+        font-size: 0.8rem;
+        line-height: 15px;
     }
     .container {
         flex-direction: column;
@@ -115,5 +115,11 @@ a:hover {
     }
     .menu-body ul hr {
         display: none; /* Скрыть hr на мобильных устройствах */
+    }
+    .main p img { /* картинка "о себе" */
+        width: 100%;
+    }
+    .main iframe { /* видео "о себе" */
+        width: 100%;
     }
 }
