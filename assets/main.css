@@ -57,6 +57,10 @@ a:hover {
     padding-left: 2%;
 }
 
+.main ul {
+    list-style-type: none;
+}
+
 /* Gallery with pagination */
 .gallery-description {
     text-align: center;
