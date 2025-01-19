@@ -63,8 +63,9 @@ a:hover {
 
 /* Gallery with pagination */
 .gallery-description {
-    text-align: center;
+    text-align: left;
 }
+
 .gallery {
     display: flex;
     align-items: center;
@@ -75,6 +76,10 @@ a:hover {
 .images-container {
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
+}
+.images-container img {
+    width: 100%;
 }
 
 .prev-btn {
@@ -114,12 +119,15 @@ a:hover {
         padding: 5px;
     }
     .menu-body ul hr {
-        display: none; /* Скрыть hr на мобильных устройствах */
+        display: none; /* Скрыть hr */
     }
     .main p img { /* картинка "о себе" */
         width: 100%;
     }
     .main iframe { /* видео "о себе" */
         width: 100%;
+    }
+    .gallery-description {
+        text-align: center;
     }
 }
